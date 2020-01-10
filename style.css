@@ -1,0 +1,8 @@
+body {
+    background: rgb(233,233,233);
+    background: linear-gradient(90deg, rgba(233,233,233,1) 0%, rgba(142,163,186,1) 100%);
+}
+
+li {
+    list-style-type: none; 
+ }
